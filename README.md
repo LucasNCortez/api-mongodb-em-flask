@@ -1,4 +1,4 @@
-# API de Usuários
+# API de MongoDB em Flask
 
 Esta é uma API RESTful para gerenciar usuários utilizando Flask e MongoDB. A API permite criar, ler e atualizar e usuários.
 
